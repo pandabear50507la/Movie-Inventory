@@ -1,4 +1,3 @@
-# Movie-Inventory
 # Please read the REQUIREMENTS.md file for python libraries needed
 Allows you basic functionalities of making an inventory of your plex MOVIES only.
 
