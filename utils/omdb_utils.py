@@ -1,5 +1,4 @@
 import requests
-import api_key as key
 OMDB_API_KEY = 'INSERT KEY HERE'
 OMDB_API_URL = 'http://www.omdbapi.com/'
 
